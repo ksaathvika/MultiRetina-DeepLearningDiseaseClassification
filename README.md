@@ -1,1 +1,1 @@
-# MultiRetina-DeepLearningDiseaseClassification
+# MultiRetina-Deep Learning Disease Classification
